@@ -1,11 +1,11 @@
 ### Hi there I'm Fabiola Poblete👋
 
-## I'm a frontend developer based in Sweden with a bachelor's degree in physics. 
+# I'm a frontend developer based in Sweden with a bachelor's degree in physics. 
 🌱 I'm continuously seeking opportunities to expand my technical expertise
 
 ⚡ I love sports and diving into friendly competition with boardgames and online gaming
 
-# Tech stack
+### Tech stack
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />

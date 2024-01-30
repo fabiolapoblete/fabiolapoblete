@@ -1,6 +1,6 @@
 ### Hi there I'm Fabiola Poblete👋
 
-# I'm a frontend developer based in Sweden with a bachelor's degree in physics. 
+## I'm a frontend developer based in Sweden with a bachelor's degree in physics. 
 🌱 I'm continuously seeking opportunities to expand my technical expertise
 
 ⚡ I love sports and diving into friendly competition with boardgames and online gaming

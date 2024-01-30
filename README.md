@@ -7,9 +7,20 @@
 
 
 ### Tech stack
-[![My Skills](https://skillicons.dev/icons?i=js,py,html,css,react,ts,redux,sass,nodejs,express,aws,dynamodb,apollo,graphql,figma,linux,unity,vite,)](https://skillicons.dev)
-<img align="left" alt="NeDB" width="30px" src="https://camo.githubusercontent.com/b8515a9ff623e6dda4fb1bd46f2e5fc264f1a046a5b25baca22c5d1d18b9eca8/687474703a2f2f692e696d6775722e636f6d2f394f31784846622e706e67" />
+[![My Skills](https://skillicons.dev/icons?i=js,py,html,css,react,ts,redux,sass,nodejs,express,aws,dynamodb,apollo,graphql,figma,linux,unity,vite,&perline=6)](https://skillicons.dev)
+
+
+
+
+
+
+
+
+
+
+
 <!--
+<img align="left" alt="NeDB" width="30px" src="https://camo.githubusercontent.com/b8515a9ff623e6dda4fb1bd46f2e5fc264f1a046a5b25baca22c5d1d18b9eca8/687474703a2f2f692e696d6775722e636f6d2f394f31784846622e706e67" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />

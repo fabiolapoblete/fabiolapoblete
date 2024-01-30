@@ -7,7 +7,7 @@
 
 
 ### Tech stack
-[![My Skills](https://skillicons.dev/icons?i=js,py,html,css,react,ts,redux,sass,nodejs,express,aws,dynamodb,apollo,graphql,figma,linux,unity,vite,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,html,css,react,ts,redux,sass,nodejs,express,aws,dynamodb,apollo,graphql,figma,linux,unity,vite,&perline=9)](https://skillicons.dev)
 
 
 

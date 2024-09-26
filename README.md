@@ -1,4 +1,4 @@
-# Hi there I'm Fabiola Poblete👋
+# Hi there I'm Fabiola Brodl👋
 I'm a frontend developer based in Sweden with a bachelor's degree in physics. I have professional experience in meteorology, development and leadership.
 
 🌱 I'm continuously seeking opportunities to expand my technical expertise  
